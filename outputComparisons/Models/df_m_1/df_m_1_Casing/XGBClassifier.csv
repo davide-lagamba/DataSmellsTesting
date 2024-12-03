@@ -1,0 +1,2 @@
+Model,Accuracy,Balanced Accuracy,ROC AUC,F1 Score,Time Taken
+XGBClassifier,1.0,1.0,1.0,1.0,0.0898816585540771

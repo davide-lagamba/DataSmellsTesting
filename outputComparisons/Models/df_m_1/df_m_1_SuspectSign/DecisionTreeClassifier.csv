@@ -1,0 +1,2 @@
+Model,Accuracy,Balanced Accuracy,ROC AUC,F1 Score,Time Taken
+DecisionTreeClassifier,1.0,1.0,1.0,1.0,0.0124857425689697

@@ -1,0 +1,122 @@
+{
+    "tables": {
+        "kdd-census": {
+            "columns": {
+                "age": {
+                    "sdtype": "numerical"
+                },
+                "class_of_worker": {
+                    "sdtype": "categorical"
+                },
+                "industry_code": {
+                    "sdtype": "numerical"
+                },
+                "occupation_code": {
+                    "sdtype": "numerical"
+                },
+                "education": {
+                    "sdtype": "categorical"
+                },
+                "wage_per_hour": {
+                    "sdtype": "numerical"
+                },
+                "enrolled_in_edu_inst_lastwk": {
+                    "sdtype": "categorical"
+                },
+                "marital_status": {
+                    "sdtype": "categorical"
+                },
+                "major_industry_code": {
+                    "sdtype": "categorical"
+                },
+                "major_occupation_code": {
+                    "sdtype": "categorical"
+                },
+                "race": {
+                    "sdtype": "categorical"
+                },
+                "hispanic_origin": {
+                    "sdtype": "categorical"
+                },
+                "sex": {
+                    "sdtype": "categorical"
+                },
+                "member_of_labor_union": {
+                    "sdtype": "categorical"
+                },
+                "reason_for_unemployment": {
+                    "sdtype": "categorical"
+                },
+                "full_parttime_employment_stat": {
+                    "sdtype": "categorical"
+                },
+                "capital_gains": {
+                    "sdtype": "numerical"
+                },
+                "capital_losses": {
+                    "sdtype": "numerical"
+                },
+                "dividend_from_Stocks": {
+                    "sdtype": "numerical"
+                },
+                "tax_filer_status": {
+                    "sdtype": "categorical"
+                },
+                "region_of_previous_residence": {
+                    "sdtype": "categorical"
+                },
+                "state_of_previous_residence": {
+                    "sdtype": "administrative_unit",
+                    "pii": true
+                },
+                "d_household_family_stat": {
+                    "sdtype": "categorical"
+                },
+                "d_household_summary": {
+                    "sdtype": "categorical"
+                },
+                "live_1_year_ago": {
+                    "sdtype": "categorical"
+                },
+                "num_person_Worked_employer": {
+                    "sdtype": "categorical"
+                },
+                "family_members_under_18": {
+                    "sdtype": "categorical"
+                },
+                "country_father": {
+                    "sdtype": "categorical"
+                },
+                "country_mother": {
+                    "sdtype": "categorical"
+                },
+                "country_self": {
+                    "sdtype": "categorical"
+                },
+                "citizenship": {
+                    "sdtype": "categorical"
+                },
+                "business_or_self_employed": {
+                    "sdtype": "categorical"
+                },
+                "fill_questionnaire_veteran_admin": {
+                    "sdtype": "categorical"
+                },
+                "veterans_benefits": {
+                    "sdtype": "categorical"
+                },
+                "weeks_worked_in_year": {
+                    "sdtype": "numerical"
+                },
+                "year": {
+                    "sdtype": "categorical"
+                },
+                "income_level": {
+                    "sdtype": "categorical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}

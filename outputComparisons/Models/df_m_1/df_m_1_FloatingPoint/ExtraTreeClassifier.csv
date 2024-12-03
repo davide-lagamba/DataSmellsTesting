@@ -1,0 +1,2 @@
+Model,Accuracy,Balanced Accuracy,ROC AUC,F1 Score,Time Taken
+ExtraTreeClassifier,0.875,0.875,0.875,0.8747826086956522,0.0130691528320312
