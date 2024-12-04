@@ -54,4 +54,4 @@ Il lavoro svolto mira a valutare l'impatto sulle metriche di valutazione e sulle
 - DataSmellsTestBase/BaseSynthetic/Casing/FloatingPointNumberAsString/MissingValues/SuspectSign.ipynb: script per calcolare le metriche di valutazione dei modelli di classificazione sui diversi scenari dei dataset, utilizzando il tool LazyPredict
 - dsdetection.py: script per l'individuazione di data smell tramite il tool DSD. Attualmente i risultati prodotti da questo script non sono sempre in linea con quelli ottenuti utilizzando il tool via web con i medesimi input
 
-I file DataSmellsTest e la fase di data augmentation per il dataset "diabetic_data" del file data_augmentation_with_sdv.ipynb, sono stati eseguiti utilizzando [Google Colab](https://colab.research.google.com/), ed in particolare il runtime con TPU v2.8
+I file DataSmellsTest e la fase di data augmentation per il dataset "diabetic_data" del file data_augmentation_with_sdv.ipynb, sono stati eseguiti utilizzando [Google Colab](https://colab.google/), ed in particolare il runtime con TPU v2.8
