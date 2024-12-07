@@ -334,7 +334,7 @@ if __name__ == "__main__":
 
     results_BaseSynthetic = [df_l_1_Synthetic, df_l_2_Synthetic, df_l_3_Synthetic, df_m_1_Synthetic, df_m_2_Synthetic]
     results_BaseSynthetic_numeric = [df_l_1_Synthetic, df_l_2_Synthetic, df_m_1_Synthetic, df_m_2_Synthetic]
-    results_BaseSynthetic_casing = [df_l_1_Synthetic, df_l_2_Synthetic, df_m_1_Synthetic, df_m_2_Synthetic]
+    results_BaseSynthetic_casing = [df_l_1_Synthetic, df_l_2_Synthetic, df_l_3_Synthetic, df_m_1_Synthetic]
 
     results_BaseSynthetic_numeric_large = [df_l_1_Synthetic, df_l_2_Synthetic]
     results_BaseSynthetic_casing_large = [df_l_1_Synthetic, df_l_2_Synthetic, df_l_3_Synthetic]
