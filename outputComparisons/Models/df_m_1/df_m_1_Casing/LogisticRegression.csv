@@ -1,0 +1,2 @@
+Model,Accuracy,Balanced Accuracy,ROC AUC,F1 Score,Time Taken
+LogisticRegression,1.0,1.0,1.0,1.0,0.0123543739318847

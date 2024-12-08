@@ -1,0 +1,28 @@
+{
+    "tables": {
+        "tae": {
+            "columns": {
+                "English_speaker": {
+                    "sdtype": "categorical"
+                },
+                "Course_instructor": {
+                    "sdtype": "numerical"
+                },
+                "Course": {
+                    "sdtype": "numerical"
+                },
+                "Summer_or_regular_semester": {
+                    "sdtype": "categorical"
+                },
+                "Class_size": {
+                    "sdtype": "numerical"
+                },
+                "Class_attribute": {
+                    "sdtype": "categorical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}

@@ -1,0 +1,2 @@
+Model,Accuracy,Balanced Accuracy,ROC AUC,F1 Score,Time Taken
+KNeighborsClassifier,0.875,0.875,0.875,0.8730158730158729,0.0147552490234375

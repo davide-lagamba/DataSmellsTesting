@@ -1,0 +1,2 @@
+Model,Accuracy,Balanced Accuracy,ROC AUC,F1 Score,Time Taken
+LGBMClassifier,1.0,1.0,1.0,1.0,0.0779869556427002
