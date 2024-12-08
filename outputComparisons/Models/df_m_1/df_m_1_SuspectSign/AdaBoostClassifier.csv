@@ -1,0 +1,2 @@
+Model,Accuracy,Balanced Accuracy,ROC AUC,F1 Score,Time Taken
+AdaBoostClassifier,1.0,1.0,1.0,1.0,0.1111807823181152

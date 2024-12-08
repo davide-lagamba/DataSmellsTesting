@@ -1,0 +1,28 @@
+{
+    "tables": {
+        "Firefighter_Promotion_Exam_Scores": {
+            "columns": {
+                "position": {
+                    "sdtype": "categorical"
+                },
+                "oral": {
+                    "sdtype": "numerical"
+                },
+                "written": {
+                    "sdtype": "numerical"
+                },
+                "race": {
+                    "sdtype": "categorical"
+                },
+                "combine": {
+                    "sdtype": "numerical"
+                },
+                "promotion": {
+                    "sdtype": "categorical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}

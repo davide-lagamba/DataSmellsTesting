@@ -1,0 +1,2 @@
+Model,Accuracy,Balanced Accuracy,ROC AUC,F1 Score,Time Taken
+SVC,1.0,1.0,1.0,1.0,0.0124740600585937

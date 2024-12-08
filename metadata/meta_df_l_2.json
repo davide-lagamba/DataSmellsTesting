@@ -1,0 +1,37 @@
+{
+    "tables": {
+        "nursery": {
+            "columns": {
+                "parents": {
+                    "sdtype": "categorical"
+                },
+                "has_nurs": {
+                    "sdtype": "categorical"
+                },
+                "form": {
+                    "sdtype": "categorical"
+                },
+                "children": {
+                    "sdtype": "categorical"
+                },
+                "housing": {
+                    "sdtype": "categorical"
+                },
+                "finance": {
+                    "sdtype": "categorical"
+                },
+                "social": {
+                    "sdtype": "categorical"
+                },
+                "health": {
+                    "sdtype": "categorical"
+                },
+                "class": {
+                    "sdtype": "categorical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}

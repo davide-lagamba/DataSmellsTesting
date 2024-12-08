@@ -1,0 +1,145 @@
+{
+    "tables": {
+        "diabetic_data": {
+            "columns": {
+                "patient_nbr": {
+                    "sdtype": "numerical"
+                },
+                "gender": {
+                    "sdtype": "categorical"
+                },
+                "age": {
+                    "sdtype": "categorical"
+                },
+                "weight": {
+                    "sdtype": "categorical"
+                },
+                "admission_type_id": {
+                    "sdtype": "categorical"
+                },
+                "discharge_disposition_id": {
+                    "sdtype": "numerical"
+                },
+                "admission_source_id": {
+                    "sdtype": "numerical"
+                },
+                "time_in_hospital": {
+                    "sdtype": "numerical"
+                },
+                "payer_code": {
+                    "sdtype": "categorical"
+                },
+                "num_lab_procedures": {
+                    "sdtype": "numerical"
+                },
+                "num_procedures": {
+                    "sdtype": "categorical"
+                },
+                "num_medications": {
+                    "sdtype": "numerical"
+                },
+                "number_outpatient": {
+                    "sdtype": "numerical"
+                },
+                "number_emergency": {
+                    "sdtype": "numerical"
+                },
+                "number_inpatient": {
+                    "sdtype": "numerical"
+                },
+                "diag_1": {
+                    "sdtype": "categorical"
+                },
+                "diag_2": {
+                    "sdtype": "categorical"
+                },
+                "diag_3": {
+                    "sdtype": "categorical"
+                },
+                "number_diagnoses": {
+                    "sdtype": "numerical"
+                },
+                "metformin": {
+                    "sdtype": "categorical"
+                },
+                "repaglinide": {
+                    "sdtype": "categorical"
+                },
+                "nateglinide": {
+                    "sdtype": "categorical"
+                },
+                "chlorpropamide": {
+                    "sdtype": "categorical"
+                },
+                "glimepiride": {
+                    "sdtype": "categorical"
+                },
+                "acetohexamide": {
+                    "sdtype": "categorical"
+                },
+                "glipizide": {
+                    "sdtype": "categorical"
+                },
+                "glyburide": {
+                    "sdtype": "categorical"
+                },
+                "tolbutamide": {
+                    "sdtype": "categorical"
+                },
+                "pioglitazone": {
+                    "sdtype": "categorical"
+                },
+                "rosiglitazone": {
+                    "sdtype": "categorical"
+                },
+                "acarbose": {
+                    "sdtype": "categorical"
+                },
+                "miglitol": {
+                    "sdtype": "categorical"
+                },
+                "troglitazone": {
+                    "sdtype": "categorical"
+                },
+                "tolazamide": {
+                    "sdtype": "categorical"
+                },
+                "examide": {
+                    "sdtype": "categorical"
+                },
+                "citoglipton": {
+                    "sdtype": "categorical"
+                },
+                "insulin": {
+                    "sdtype": "categorical"
+                },
+                "glyburide-metformin": {
+                    "sdtype": "categorical"
+                },
+                "glipizide-metformin": {
+                    "sdtype": "categorical"
+                },
+                "glimepiride-pioglitazone": {
+                    "sdtype": "categorical"
+                },
+                "metformin-rosiglitazone": {
+                    "sdtype": "categorical"
+                },
+                "metformin-pioglitazone": {
+                    "sdtype": "categorical"
+                },
+                "change": {
+                    "sdtype": "categorical"
+                },
+                "diabetesMed": {
+                    "sdtype": "categorical"
+                },
+                "readmitted": {
+                    "sdtype": "categorical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}

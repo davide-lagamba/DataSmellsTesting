@@ -1,0 +1,2 @@
+Model,Accuracy,Balanced Accuracy,ROC AUC,F1 Score,Time Taken
+PassiveAggressiveClassifier,1.0,1.0,1.0,1.0,0.0131027698516845
